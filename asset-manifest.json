@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/livejsa/kurs/static/css/main.5f361e03.chunk.css",
+    "main.js": "/livejsa/kurs/static/js/main.c6cc5b04.chunk.js",
+    "main.js.map": "/livejsa/kurs/static/js/main.c6cc5b04.chunk.js.map",
+    "runtime-main.js": "/livejsa/kurs/static/js/runtime-main.47910114.js",
+    "runtime-main.js.map": "/livejsa/kurs/static/js/runtime-main.47910114.js.map",
+    "static/js/2.d6c6f0f4.chunk.js": "/livejsa/kurs/static/js/2.d6c6f0f4.chunk.js",
+    "static/js/2.d6c6f0f4.chunk.js.map": "/livejsa/kurs/static/js/2.d6c6f0f4.chunk.js.map",
+    "index.html": "/livejsa/kurs/index.html",
+    "precache-manifest.791e67b649d42e8334b668aea9ab28bc.js": "/livejsa/kurs/precache-manifest.791e67b649d42e8334b668aea9ab28bc.js",
+    "service-worker.js": "/livejsa/kurs/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/livejsa/kurs/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d6c6f0f4.chunk.js.LICENSE.txt": "/livejsa/kurs/static/js/2.d6c6f0f4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47910114.js",
+    "static/js/2.d6c6f0f4.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c6cc5b04.chunk.js"
+  ]
+}
