@@ -1,3 +1,9 @@
+# Infoskjerm 
+
+En svært enkel infoskjerm med dadjokes og sykkelstasjoner, med sykler tilgjengelige og plasser tilgjengelige, i Trondheim. 
+Gjennomført på et kort introduksjonskurs til React. 
+Følgende info er tatt direkte fra kursholderens Readme.md.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
